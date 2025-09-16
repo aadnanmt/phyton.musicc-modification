@@ -1,6 +1,6 @@
 import sys
 import time
-
+ 
 SUCCESS_MESSAGE = "Yeyyy, selesaiii"
 SUCCESS = "Thank youuu and see youuu:3"
 EMPTY_MESSAGE = "\n=== Tidak ada lirik lagu yang ditemukan==="

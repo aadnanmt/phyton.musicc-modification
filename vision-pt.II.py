@@ -5,7 +5,7 @@ SUCCESS_MESSAGE = "\n=== Yeyyy, Lirik Lagu Selesai ==="
 EMPTY_MESSAGE = "\n=== Tidak ada lirik lagu yang ditemukan ==="
 CREDIT_MESSAGE = "// Code by @aadnanmt //\n"
 
-def run_lyriczzz():
+def run_lyriczzz(): 
     lyriczzz = [
         ("Silver, once golden", 0.10),
         ("There's only so much holding on", 0.07),
